@@ -14,7 +14,7 @@
 # @link ad5001.eu
 name: HideAndSeek
 author:  [Ad5001, Zeao]
-version: 1.0
+version: 2.0.0
 api: [3.0.0-ALPHA6]
 main: Ad5001\HideAndSeek\Main
 load: POSTWORLD
